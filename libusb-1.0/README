@@ -20,3 +20,5 @@ http://libusb.org/wiki/MailingList
 
 - Peter Stuge <peter@stuge.se>
 (use the mailing list rather than mailing developers directly)
+
+NOTE: I made some minor additional changes to this code when using in my library and compiling in Windows
