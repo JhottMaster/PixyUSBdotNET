@@ -6,9 +6,9 @@ I put together the Pixy USB .NET library to make it easier to communicate with t
 More on pixy cam: http://charmedlabs.com/default/pixy-cmucam5/
 
 I included a sample application to show usage. I don't have much experience in C/C++, so I've hacked my way through it. Please excuse poor C/C++ code/style.
-This library is also still in progress. I'm currently working on additional commands as well as writing code to retrieve images from the camera.
+I was hoping to add additional commands as well as write code to retrieve images from the camera... don't think that's gonna happen.
 
-I'll take any help I can get! I'd love to hear what others can do with this. Enjoy
+Feel free to fork and submit PRs for it. I'd love to hear what others can do with this. Enjoy
 
 Pablo D. Aizpiri
 Reference blog post: http://pabloaizpiri.com/2015/10/25/net-pixycam-library/
